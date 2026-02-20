@@ -1,0 +1,32 @@
+{
+  "version": "3.104.35448.0",
+  "course_id": "5iOCEaSPbqP",
+  "title": "Mittelspannung Schulung BU-TT",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Szene ohne Titel"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5rEcGHqJTzn",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5nBzl8A97G0",
+      "title": "Folie ohne Titel",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
